@@ -1,5 +1,7 @@
 # 🩺 HEDIS Agentic Data & Orchestration Pipeline
 
+![HEDIS Agentic Modernization Platform Architecture](docs/images/architecture-diagram.jpg)
+
 A production-grade Healthcare Effectiveness Data and Information Set (HEDIS) automation pipeline built with **DuckDB**, **dbt**, **LangGraph**, **Pydantic**, and a decoupled **RPA Outbox pattern**. This project automates the extraction, clinical evidence identification, and closure workflows for quality-of-care gaps.
 
 ---
