@@ -1,0 +1,8 @@
+{
+  "target_system": "EZCAP_CLAIMS_UI",
+  "action": "CLOSE_CARE_GAP",
+  "member_id": "M1002",
+  "measure": "BPD",
+  "evidence_value": "128/82 mmHg",
+  "status": "READY_FOR_RPA_BOT"
+}

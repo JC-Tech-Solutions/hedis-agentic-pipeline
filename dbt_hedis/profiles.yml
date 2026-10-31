@@ -1,0 +1,7 @@
+dbt_hedis:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: '../data/hedis.duckdb'
+      threads: 4

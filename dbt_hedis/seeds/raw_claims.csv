@@ -1,0 +1,4 @@
+member_id,claim_id,service_date,code_type,code,description
+M1001,C901,2023-05-14,CPT,45378,Colonoscopy (Closed COL)
+M1002,C902,2026-01-10,ICD10,E11.9,Type 2 Diabetes (Needs BP Value Check)
+M1003,C903,2026-09-01,CPT,99238,Hospital Discharge (Needs TRC Med Rec)

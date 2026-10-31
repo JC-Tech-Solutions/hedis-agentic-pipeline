@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: local_csv
+    description: "Raw local CSV files for HEDIS pipeline"
+    tables:
+      - name: raw_members
+        description: "Member demographic seed data"
+      - name: raw_claims
+        description: "Claim encounter seed data"
